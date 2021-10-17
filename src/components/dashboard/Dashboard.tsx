@@ -23,7 +23,7 @@ const Index = () => {
       }
     }
     getData()
-  }, [])
+  }, [url])
 
   return (
     <div>
