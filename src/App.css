@@ -1,0 +1,12 @@
+.app {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  background: url('../src/assets/background.46281df0.png'),
+    linear-gradient(143deg, #1e90ff, #d4af37 86%);
+  background-size: cover;
+  background-position: top;
+  margin-bottom: -1px;
+}
+
